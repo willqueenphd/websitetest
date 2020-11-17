@@ -1,2 +1,2 @@
 
-<a href="./files/Will_Queen_CV.pdf" target="_blank">Click here for my CV.</a>
+<a href="github.com/willqueenphd/willqueenphd.github.com/files/Will_Queen_CV.pdf" target="_blank">Click here for my CV.</a>

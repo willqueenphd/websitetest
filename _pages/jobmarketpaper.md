@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-# Title of My Job Market Paper
+# Does adolescent mental illness affect adult labor market outcomes? 
 
-Test text
+My job market paper uses the Add Health to estimate the direct and indirect effects of adolescent depression on adult wages. Check back in summer 2021 for a draft of my job market paper!
 
-[Test link to my job market paper](github.com/willqueenphd/willqueenphd.github.io/files/jobmarketpaperdraft.pdf)
+<!--- [Download my job market paper!](github.com/willqueenphd/willqueenphd.github.io/files/jobmarketpaperdraft.pdf)  --->

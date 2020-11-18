@@ -15,20 +15,15 @@ redirect_from:
 <div align="center">
   
 # Will Queen
-</div>
-
-<p align="center">
   
 Hi, I'm a PhD candidate in economics at UNC Greensboro going on the job market in 2021/22. I'm interested in applied microeconomics, health behaviors, and econometrics.
-</p>
 
-
-<p align="center"> 
 location         : "Greensboro, North Carolina"
 employer         : "UNC Greensboro"
 email            : "jwqueen@uncg.edu"
 github           : "willqueenphd"
 twitter          : "willqueen5"
-</p>
+  
+</div>
 
 This site is under construction. Check back later for up-to-date information!

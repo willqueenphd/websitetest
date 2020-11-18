@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
+<div align="center">
   <img width="260" height="300" src="willqueenphd.github.io/images/avatar.jpg">
-</p>
+</div> 
 
 <div align="center">
   

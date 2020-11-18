@@ -2,18 +2,24 @@
 permalink: /
 title: "Welcome"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 <img src="willqueenphd.github.io/images/avatar.jpg" alt="avatar" class="center">
+img {
+  border-radius: 50%;
+}
 
 # Will Queen
 
 
-  bio              : "Hi, I'm a PhD candidate in economics at UNC Greensboro going on the job market in 2021/22. I'm interested in applied microeconomics, health behaviors, and econometrics."
+Hi, I'm a PhD candidate in economics at UNC Greensboro going on the job market in 2021/22. I'm interested in applied microeconomics, health behaviors, and econometrics.
+
+
+
 location         : "Greensboro, North Carolina"
 employer         : "UNC Greensboro"
 pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

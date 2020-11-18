@@ -11,10 +11,10 @@ redirect_from:
 <img src="willqueenphd.github.io/images/avatar.jpg" alt="avatar" class="center">
 
 
-# Will Queen
+<h1 style="text-align:center;">Will Queen</h1>
+<p style="text-align:center;">Hi, I'm a PhD candidate in economics at UNC Greensboro going on the job market in 2021/22. I'm interested in applied microeconomics, health behaviors, and econometrics.
+</p>
 
-
-Hi, I'm a PhD candidate in economics at UNC Greensboro going on the job market in 2021/22. I'm interested in applied microeconomics, health behaviors, and econometrics.
 
 
 

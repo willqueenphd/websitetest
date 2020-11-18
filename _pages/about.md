@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="avatar.jpg" alt="Paris" class="center">
+<img src="willqueenphd.github.io/images/avatar.jpg" alt="avatar" class="center">
 
 # Will Queen
 

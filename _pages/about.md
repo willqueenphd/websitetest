@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <p align="center">
-  <img width="460" height="300" src="willqueenphd.github.io/images/avatar.jpg">
+  <img width="260" height="300" src="willqueenphd.github.io/images/avatar.jpg">
 </p>
 
-<p align="center"># Will Queen</p>
+# <p align="center">Will Queen</p>
 
 <p align="center">Hi, I'm a PhD candidate in economics at UNC Greensboro going on the job market in 2021/22. I'm interested in applied microeconomics, health behaviors, and econometrics.</p>
 
